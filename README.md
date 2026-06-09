@@ -2,6 +2,11 @@
 
 Stack: Node.js + Express + Prisma + MySQL + React + Vite + Tailwind CSS
 
+# Integrantes
+
+- Guilherme Tófoli da Silva
+- Abner Castanho Cardoso
+
 ---
 
 ## Estrutura de Pastas
